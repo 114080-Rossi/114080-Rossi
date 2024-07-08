@@ -53,7 +53,7 @@ Technologies and Languages </h2>
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
 
-![Arya's github stats](https://github-readme-stats.vercel.app/api?username=braianrossi&show_icons=true&theme=merko) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=braianrossi&layout=compact&theme=merko)
+![Arya's github stats](https://github-readme-stats.vercel.app/api?username=114080-Rossi&show_icons=true&theme=merko) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=114080-Rossi&layout=compact&theme=merko)
 
 
 <!--
