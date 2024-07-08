@@ -1,5 +1,5 @@
 <!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+<!--<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>-->
 <p align="center">
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
 </p>
@@ -10,23 +10,26 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rossibraian2018@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/114080-Rossi)
 
-<!--About Me-->
+<!--About Me
 
-<h1><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me</h1>
+<h1><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me</h1>-->
+## About me
 
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
+<!--<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>-->
 
-- I am a `Student` at [Tecnicatura en Programacion](https://www.frc.utn.edu.ar/secretarias/academica/tecnicaturas/programacion/?pIs=704) in [UTN FRC](https://www.frc.utn.edu.ar/)
+- Junior Fullstack developer
 
-- **Currently looking for work** `Backend Development` **and** `Data Science`
+- I am a studying in the [Tecnicatura en Programacion](https://www.frc.utn.edu.ar/secretarias/academica/tecnicaturas/programacion/?pIs=704) in [UTN FRC](https://www.frc.utn.edu.ar/)
+
+<!-- **Currently looking for work** `Backend Development` **and** `Data Science`
 
 - You can visit [MY WEBSITE](https://eliochiu.github.io) for some frontend knowledge
 
--  Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=Rossi-Braian&amp;color=EA4335&amp;style=flat-square)](mailto:rossibraian2018@gmail.com)
+--  Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=Rossi-Braian&amp;color=EA4335&amp;style=flat-square)](mailto:rossibraian2018@gmail.com)-->
 
-<h2 align="center">
-Technologies and Languages </h2>
-
+<!--<h2 align="center">
+Technologies and Languages </h2>-->
+## Technologies and Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=white)
