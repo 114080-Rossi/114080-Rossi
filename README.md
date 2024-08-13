@@ -28,7 +28,7 @@
 --  Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=Rossi-Braian&amp;color=EA4335&amp;style=flat-square)](mailto:rossibraian2018@gmail.com)-->
 
 <!--<h2 align="center">
-Technologies and Languages </h2>-->
+Technologies and Languages </h2>
 ## Technologies and Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
@@ -53,6 +53,7 @@ Technologies and Languages </h2>-->
 ![Microsoft Powerpoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white)
+-->
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
 
